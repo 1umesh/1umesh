@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#A motivated Data Science Fresher looking to leverage my strong programming skills in Python, analytical aptitude and knowledge of data visualizations to effectively analyze, interpret, #present insights, prediction and classification from large datasets in an accurate and meaningful way.
+- 📫 How to reach me: umesh.nod@gmail.com
+
 <!--
 **1umesh/1umesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
