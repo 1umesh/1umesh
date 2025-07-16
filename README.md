@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a data science trainer<br>👯 I’m looking to collaborate on generative ai projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning generative ai and deep learning and mlops<br><br>⚡ 
+🔭 I’m currently working as a data science trainer<br>👯 I’m looking to collaborate on generative ai projects<br>🤝 I’m looking for help with<br>🌱 I’m currently Working on generative ai and deep learning <br><br>⚡ 
 
 
 ## 🌐 Socials:
